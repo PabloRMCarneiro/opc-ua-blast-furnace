@@ -5,6 +5,8 @@ Este projeto consiste em uma aplicação de controle de temperatura distribuída
 
 ### Clone o Projeto
 
+#### git clone _linkDoProjeto_ (Recomendado)
+
 ### Configuração do Ambiente
 
 #### Criar um Ambiente Virtual
