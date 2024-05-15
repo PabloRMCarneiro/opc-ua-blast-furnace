@@ -1,6 +1,9 @@
-## Como Rodar a Aplicação de Controle de Temperatura
+## Como Executar a Aplicação de Controle de Temperatura
 
 Este projeto consiste em uma aplicação de controle de temperatura distribuída em três componentes principais: CLP (clp.py), MES (mes.py) e Planta (planta.py). O arquivo sinotico.py serve como interface para o usuário interagir com o sistema.
+
+
+### Clone o Projeto
 
 ### Configuração do Ambiente
 
