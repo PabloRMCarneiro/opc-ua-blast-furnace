@@ -2,12 +2,17 @@
 
 Este projeto consiste em uma aplicação de controle de temperatura distribuída em três componentes principais: CLP (clp.py), MES (mes.py) e Planta (planta.py). O arquivo sinotico.py serve como interface para o usuário interagir com o sistema.
 
+### Requisitos
+
+- Python 3.x
+- Git ( para clonar o projeto ) -  [Como instalar o git](https://git-scm.com/downloads)
+
 
 ### Clone o Projeto
 
-#### ```bash
+```bash
   git clone https://github.com/PabloRMCarneiro/opc-ua-blast-furnace
-  ```
+```
 
 ### Configuração do Ambiente
 
