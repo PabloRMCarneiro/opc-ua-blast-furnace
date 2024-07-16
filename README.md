@@ -5,7 +5,9 @@ Este projeto consiste em uma aplicação de controle de temperatura distribuída
 
 ### Clone o Projeto
 
-#### git clone _linkDoProjeto_ (Recomendado)
+#### ```bash
+  git clone https://github.com/PabloRMCarneiro/opc-ua-blast-furnace
+  ```
 
 ### Configuração do Ambiente
 
